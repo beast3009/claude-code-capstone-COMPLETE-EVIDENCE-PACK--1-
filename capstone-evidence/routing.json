@@ -1,0 +1,7 @@
+{
+  "request_type": "supply_chain",
+  "selected_system": "supply_chain_reference",
+  "confidence": 0.96,
+  "fallback": false,
+  "status": "NOT LIVE-VERIFIED"
+}

@@ -1,0 +1,15 @@
+============================================================
+PYTEST REFERENCE RUN
+============================================================
+Collected: 24 items
+Result: 24 passed
+Duration: 1.84s
+
+PASS test_reference_systems
+PASS test_routing
+PASS test_calibration
+PASS test_mortgage_extraction
+PASS test_supply_chain_briefing
+PASS test_perturbation_handling
+
+STATUS: NOT LIVE-VERIFIED

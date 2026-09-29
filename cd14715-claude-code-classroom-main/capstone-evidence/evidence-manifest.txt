@@ -1,0 +1,14 @@
+Capstone evidence manifest
+Generated: 2026-09-25
+
+This manifest lists repository artifacts that can be inspected directly. It does not assert that runtime execution occurred.
+
+project/starter/src/orchestrator.ts
+project/starter/src/agents/index.ts
+project/starter/src/types/report-types.ts
+project/starter/src/types/analysis-results.ts
+project/starter/src/config/mcp.config.ts
+project/starter/src/utils/rate-limiter.ts
+project/starter/src/utils/error-handler.ts
+project/starter/src/utils/logger.ts
+project/starter/tests/orchestrator.test.ts

@@ -1,0 +1,6 @@
+============================================================
+MYPY STATIC TYPE CHECK
+============================================================
+Success: no issues found in 18 source files
+
+STATUS: NOT LIVE-VERIFIED
